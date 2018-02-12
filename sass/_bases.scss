@@ -21,6 +21,7 @@
 .seccion_dos{
     background-color: $background_dos;
     padding: $padding_footer;
+    padding-left:$padding_left;
     @include excel();
 }
 .seccion_tres{
